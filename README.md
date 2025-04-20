@@ -42,5 +42,3 @@ counter bits.
 * The other daughterboard sits on motherboard positions B6 and B7, hosting
 two 74LS257 chips. This intercepts the eight digital video bits before
 they go through encoding to composite video.
-
-The exact daughterboard wiring is not known at this time.
