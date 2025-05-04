@@ -61,8 +61,8 @@ it into J2 (nearest the edge connector).
 | Pin | Description |
 |-----|-------------|
 | 1   | Red output |
-| 2   | Blue output |
-| 3   | Green output |
+| 2   | Green output |
+| 3   | Blue output |
 | 4   | Horizontal sync (positive) |
 | 5   | Horizontal sync (negative) |
 | 6   | Vertical sync (positive) |
@@ -86,8 +86,8 @@ follows:
 | Amdek Pin | CGA Pin | Description |
 |-----------|---------|-------------|
 | 1         |  3      | Red output  |
-| 2         |  5      | Blue output |
-| 3         |  4      | Green output |
+| 2         |  4      | Green output |
+| 3         |  5      | Blue output |
 | 4         |  8      | Horizontal sync (positive) |
 | 6         |  9      | Vertical sync (positive) |
 | 9         |  1      | Ground |
